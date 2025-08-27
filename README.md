@@ -1,10 +1,17 @@
 # File-Handling-Utility
+
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: DEEKSHA N C
+
 INTERN ID: CT04DY1225
+
 DOMAIN: JAVA PROGRAMMING
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
+
 DESCRIPTION:The FileOperations program is a simple yet practical Java application designed to demonstrate file handling operations such as writing, reading, and appending data. This program allows users to interactively store and retrieve text in a file, showing how Java can manage persistent data without relying on a database.
 
 Key Highlights:
